@@ -2,8 +2,10 @@
 Project submitted to Malaysian Examinations Syndicate for SPM 2018 Computer Science, Paper 2
 
 [Working Demo](https://ependaftaran.000webhostapp.com/)
-```Username: Guest
-Password: guest```
+```
+Username: Guest
+Password: guest
+```
 
 ### Prerequisites
 * PHP 4.2
