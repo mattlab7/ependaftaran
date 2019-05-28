@@ -30,6 +30,3 @@ User Account Registration
 ### Prerequisites
 * PHP 4.2
 * A lot of patience (This project isn't well documented, you're on your own)
-
-## Credits
-* [u/75thTrombone - Calamity Sans Font](https://www.reddit.com/r/zelda/comments/5txuba/breath_of_the_wild_ui_font/)
