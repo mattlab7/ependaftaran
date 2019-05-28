@@ -41,7 +41,7 @@
 		<h1><a href="../">e-Pendaftaran</a></h1>
 		<h3>SMK Sultan Abdul Samad</h3>
 		<h4>Info</h4>
-		<p>Pangkalan data ini ditubuhkan untuk Kerja Kursus SPM Sains Komputer, 2018 </br> [redacted for archival]</p>
+		<p>Pangkalan data ini ditubuhkan untuk Kerja Kursus SPM Sains Komputer, 2018 </br> [redacted]</p>
 		<h4>Penghargaan</h4>
 		<table>
 			<tr>
