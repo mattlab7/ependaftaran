@@ -1,0 +1,9 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color:#114B5F;
+	color:#F4FFFD;
+	text-align: center;
+}
+a:hover {
+	color: #F9DC5C;
+}
